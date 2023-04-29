@@ -5,7 +5,7 @@
 * License: https://bootstrapmade.com/license/
 */
 var typed = new Typed('.element', {
-  strings: ["Data Scientist.", "Web Devpoler." , "Data Analyst." ],
+  strings: ["Data Scientist.", "Web Devpoler." , "Data Analyst." ,"Business Analyst."],
   typeSpeed: 60 ,
   loop: true 
 });
